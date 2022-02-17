@@ -1,0 +1,7 @@
+1. simulation_button
+2. simulation_AnalogWrite
+3. simulation_AnalogRead
+4. simulation_buzzer-1s
+5. simulation_analogRead_poten
+6. sim_control_led_using_LDR
+7. sim_control_3leds_poten

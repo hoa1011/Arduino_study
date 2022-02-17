@@ -1,10 +1,15 @@
-Simulations list on Tinkercad:
-1. simulation_button
-2. simulation_AnalogWrite
-3. simulation_AnalogRead
-4. simulation_buzzer-1s
-5. simulation_analogRead_poten
-6. sim_control_led_using_LDR
-7. sim_control_3leds_poten
-
-Some of the simulations might not be not uploaded because i'm testing codes using Arduino Kits instead of simulating on PC
+Simulations list on my Tinkercad
+1. simulation_button: https://www.tinkercad.com/things/8raip8r8vfG
+2. simulation_AnalogWrite: https://www.tinkercad.com/things/dIZbO6GgHVC
+3. simulation_AnalogRead: https://www.tinkercad.com/things/gWm0dqFvPcE
+4. simulation_buzzer-1s: https://www.tinkercad.com/things/icQ2w6KDobV
+5. simulation_analogRead_poten: https://www.tinkercad.com/things/frhrroFE5jp
+6. sim_control_led_using_LDR: https://www.tinkercad.com/things/5wvPJC04inz
+7. sim_control_3leds_poten: https://www.tinkercad.com/things/lSVxF236N7B
+8. sim_practice_servo_with_poten: https://www.tinkercad.com/things/g4GNB27Ue8S
+9. sim_turnonoff_led_using for: https://www.tinkercad.com/things/5UvNWXGIjkL
+10. sim_control_ledlight_using button: https://www.tinkercad.com/things/9NDyuYOAYUj
+11. SerialMonitor_test: https://www.tinkercad.com/things/6jbbu9xvcFP
+12. turnon_off_ledonce_LtoR: https://www.tinkercad.com/things/7jp0ntrbY1T
+13. pressbutton_to_turn_on_LED: https://www.tinkercad.com/things/76QWZS9wLpM
+Some of the simulations might not be uploaded because i'm testing codes using Arduino Kits instead of simulating on PC

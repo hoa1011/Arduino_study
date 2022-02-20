@@ -7,3 +7,6 @@
 #### Current Difficulties:
 - Trying to solve problems with string on Arduino is really a big deal to me :(((
 - Still have 4 more assignments to code :"< 
+
+DON'T TAKE MY WORK AWAY WITHOUT PERMISION :<
+

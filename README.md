@@ -5,8 +5,10 @@
 #### Nguồn tài liệu bài tập: Cộng đồng Arduino Việt nam
 
 #### Current Difficulties:
-- Trying to solve problems with string on Arduino is really a big deal to me 
+- Having difficultiesy to work with Arduino string
+#### Assignments
 - Still have 4 more assignments to code 
 
+Last updated: 20/02/2022
 
 

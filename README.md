@@ -9,6 +9,5 @@ Tutorial (How to use my Arduino_study as your reference)
 - Remember to add file Hex first before simulating.
 - If you can't find file Hex then open my code in Arduino, compile it again then find your file Hex on your computer then add to your simulation.
  
-Last updated: 15/05/2022
 
 
